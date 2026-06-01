@@ -88,7 +88,8 @@ The Power BI dashboard includes:
 
 ### Power BI Dashboard
 
-![alt text](image-1.png)
+<img width="1306" height="729" alt="image_2026-06-01_112212716" src="https://github.com/user-attachments/assets/8f086605-de45-42e6-ae81-40d7f6c2cfd2" />
+
 ---
 
 ## Author
